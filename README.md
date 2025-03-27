@@ -31,4 +31,10 @@ I'll explain the orders in the sequence they're listed, but note that they can b
 
    - To summarize what Backstabbr directs you to do:  
      - Now, you just replicate your orders to the LVN army (i.e., click LVN then SWE).  
-       <img width="545" alt="Screen Shot 2025-03-27 at 9 35 32 AM" src="https://github.com/user-attachments/assets/b9d5093f-69c0-477b-a9ad-c3c87c60f9e9" />  
+       <img width="545" alt="Screen Shot 2025-03-27 at 9 35 32 AM" src="https://github.com/user-attachments/assets/b9d5093f-69c0-477b-a9ad-c3c87c60f9e9" />
+
+Now, the LVN army has moved to SWE.
+
+<img width="545" alt="Screen Shot 2025-03-27 at 9 44 44 AM" src="https://github.com/user-attachments/assets/50f29ddb-5fa1-4b08-98b5-5d83a4eb003a" />
+
+When capturing contested territory, it will become important to consider the **support** a unit has in its movements. I'll add that demo next.
